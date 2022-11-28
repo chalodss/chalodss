@@ -1,16 +1,20 @@
-### Hi there 👋
+# L'odyssée d'un bit
 
-<!--
-**chalodss/chalodss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/chalodss/chalodss/README.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/chalodss/chalodss/README.en.md)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ce dépôt contient une partie du travail que j'ai réalisé dans le but d'acquérir des compétences dans les domaines suivants:
+
+- La programmation.
+- L'informatique théorique.
+- L'intelligence artificielle.
+- La sécurité.
+
+Merci de me demander l'autorisation et de me donner la raison si vous souhaitez utiliser les sources présentes sur ces dépôts.
+
+##
+
+Ce dépôt sera mis à jour à un rythme indéterminé.
+
+Charles T.
