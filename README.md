@@ -1,8 +1,8 @@
 # L'odyssée d'un bit
 
 
-[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/chalodss)
-[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/chalodss)
+[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/chalodss/chalodss/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/chalodss/chalodss/blob/main/README.en.md)
 
 Ce dépôt contient une partie du travail que j'ai réalisé dans le but d'acquérir des compétences dans les domaines suivants:
 
