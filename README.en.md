@@ -11,7 +11,7 @@ This repository contains some of the work I have done with the aim of gaining sk
 - Artificial intelligence.
 - Security.
 
-Please ask me for permission and give me the reason if you want to use the sources present on these repositories.
+Please ask me for permission if you want to use the sources present on these repositories.
 
 ##
 
